@@ -8,4 +8,7 @@ const new_student = class student{
 	get area(){
 		return this.area
 }
+	get width(){
+		return this.width
+	}
 }
