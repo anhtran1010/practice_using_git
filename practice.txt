@@ -5,4 +5,7 @@ const new_student = class student{
 	this.area = this.width*this.height
 
 }
+	get area(){
+		return this.area
+}
 }
