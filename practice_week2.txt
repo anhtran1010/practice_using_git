@@ -1,3 +1,4 @@
 git add .
 git commit -m "practice using git week 2"
 git push
+git ignore
