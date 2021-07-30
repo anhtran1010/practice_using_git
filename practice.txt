@@ -1,4 +1,7 @@
 const new_student = class student{
 	constructor(height, width){
+	this.width = width
+	this.height = height
+
 }
 }
